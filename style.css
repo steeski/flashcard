@@ -48,17 +48,17 @@ body {
     margin-top: 1rem;
     padding: 2rem;
     margin-top: 4rem;
-    font-size: 1.4vw;
+
 }
 
 .cartao__conteudo__pergunta p {
     color: var(--text-color);
-    font-weight: 500;
+    font-weight: 300;
 }
 
 .cartao__conteudo__resposta p {
     color: var(--card-back-color);
-    font-weight: 700;
+    font-weight: 300;
 }
 
 .cartao.active .cartao__conteudo {
