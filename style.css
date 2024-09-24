@@ -1,0 +1,30 @@
+    :root {
+    --branco:  white;
+    --cor-texto-destaque: orange;
+    }
+
+    body {
+         background-color: var(--fundo);
+    }
+
+    footer {
+        position: fixed;
+        bottom: 0;
+        background-color: var(--preto);
+        color: var(--branco);
+        widht: 100%
+        text-align: center;
+    }    
+
+    #container{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 4rem;
+        gap: 3rem;  
+    }
+
+    .cartao{
+        flex-grow: 1;
+        flex-basis: calc(33% - 6rem);
+    }
