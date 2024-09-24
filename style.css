@@ -28,3 +28,22 @@
         flex-grow: 1;
         flex-basis: calc(33% - 6rem);
     }
+
+    .cartao_conteudo {
+        background-color: var(--caixa-cor-frente);
+        text-align: center;
+        color: var(--branco);
+    }
+
+    .cartao_conteudo h3 {
+        border: 1px solid var(--cor-texto-destaque);
+        padding: 0.5rem;
+        position: absolute;
+        margin: 0.5rem;
+    }
+
+    .cartao_conteudo p {
+        margin-top: 3rem;
+        padding: 2rem;
+        padding-top: 4rem;
+    }
