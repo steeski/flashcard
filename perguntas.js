@@ -30,18 +30,19 @@ criaCartao (
     
     criaCartao (
     'Quimica',
-    'Bebidas podem ser refrigeradas de modo mais rápido utilizando-se caixas de isopor contendo gelo e um pouco de sal grosso comercial. Nesse processo ocorre o derretimento do gelo com consequente formação de líquido e resfriamento das bebidas. Uma interpretação equivocada, baseada no senso comum, relaciona esse efeito à grande capacidade do sal grosso de remover calor do gelo. Do ponto de vista científico, o resfriamento rápido ocorre em razão da',
-    'diminuição da temperatura de fusão do líquido')
+    'O que é uma reação de oxidação?',
+    'É a perda de elétrons por uma substância durante uma reação química')
     
     criaCartao (
     'Quimica',
-    'O cientista Richard Feynman, prêmio Nobel de Física em 1965, fez comentários sobre o processo de combustão em uma entrevista chamada Fun to Imagine. Segundo ele, à primeira vista, é impressionante pensar que os átomos de carbono de uma árvore não entram em combustão com o oxigênio da atmosfera de forma espontânea, já que existe uma grande afinidade entre essas espécies para a formação de CO2. Entretanto, quando a reação tem início, o fogo se espalha facilmente. Essa aparente contradição pode ser explicada pois',
-    'a reação precisa de uma energia de ativação para começar')
+    'O que são ácidos e bases segundo a teoria de Arrhenius?',
+    'Ácidos liberam íons H⁺ em solução, e bases liberam íons OH⁻')
     
-    criaCartao (
-    'Quimica',
-    'Vazamento de petróleo, um drama recorrente Ao cair no ambiente marinho, por exemplo, o petróleo impede a passagem de luz. Isso afeta de maneira imediata o fitoplâncton, organismos fotossintetizantes e que, portanto, necessitam de luminosidade. Com a redução do fitoplâncton, o zooplâncton, que se alimenta desses organismos, acaba tendo sua reserva de alimento reduzida. Desse modo, o petróleo afeta de maneira negativa toda a cadeia alimentar. Os impactos decorrentes desse derramamento ocorrem porque os componentes do petróleo?',
-    'têm caráter hidrofóbico e baixa densidade, impedindo as trocas gasosas entre o meio aquático e a atmosfera')
+    criaCart (
+    'Quimica'
+    ), 
+    'Qual é a fórmula da reação de neutralização entre um ácido e uma base?'
+    ' HA + BOH → BA + H₂O (ácido + base → sal + água)'
     
     criaCartao (
     'Biologia',
