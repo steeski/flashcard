@@ -11,7 +11,7 @@ criaCartao (
     criaCartao (
     'Matemática',
     'Qual é a fórmula da soma dos ângulos internos de um triângulo?',
-    '180 graus)
+    '180 graus')
     
     criaCartao (
     'Fisica',
