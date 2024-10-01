@@ -42,11 +42,11 @@ criaCartao (
     'Quimica'
     ), 
     'Qual é a fórmula da reação de neutralização entre um ácido e uma base?'
-    ' HA + BOH → BA + H₂O (ácido + base → sal + água)'
+    ' HA + BOH -> BA + H₂O (ácido + base -> sal + água)'
     
     criaCartao (
     'Biologia',
-    ' O que é a fotossíntese?',
+    'O que é a fotossíntese?',
     'É o processo pelo qual as plantas convertem luz solar em energia química, usando dióxido de carbono e água, gerando glicose e oxigênio.')
     
     criaCartao (
