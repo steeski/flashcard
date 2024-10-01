@@ -96,5 +96,5 @@ criaCartao (
     
     criaCartao (
     'Sociologia',
-    ' o que é uma instituição social?',
+    'o que é uma instituição social?',
     'Estruturas organizadas que desempenham funções importantes na sociedade, como família, educação, religião e governo.')
