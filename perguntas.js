@@ -46,55 +46,55 @@ criaCartao (
     
     criaCartao (
     'Biologia',
-    'Durante as estações chuvosas, aumentam no Brasil as campanhas de prevenção à dengue, que têm como objetivo a redução da proliferação do mosquito Aedes aegypti, transmissor do vírus da dengue. Que proposta preventiva poderia ser efetivada para diminuir a reprodução desse mosquito?',
-    'Remoção dos recipientes que possam acumular água, porque as larvas do mosquito se desenvolvem nesse meio.')
+    ' O que é a fotossíntese?',
+    'É o processo pelo qual as plantas convertem luz solar em energia química, usando dióxido de carbono e água, gerando glicose e oxigênio.')
     
     criaCartao (
     'Biologia',
-    'Nos últimos 60 anos, a população mundial duplicou, enquanto o consumo de água foi multiplicado por sete.  Da água existente no planeta, 97% são água salgada (mares e oceanos), 2% formam geleiras inacessíveis e apenas 1% corresponde à água doce, armazenada em lençóis subterrâneos rios e lagos. A poluição pela descarga de resíduos municipais e industriais, combinada com exploração excessiva dos recursos hídricos disponíveis, ameaça o meio ambiente, comprometendo a disponibilidade de água doce para o abastecimento das populações humanas. Se esse ritmo se mantiver em alguns anos à água potável tornar-se-á um bem extremamente raro e caro. Considerando o texto, uma proposta viável para conservar o meio ambiente e água doce seria',
-    'Reduzir a poluição e exploração dos recursos naturais, otimizar o uso da água potável e aumentar a captação da água da chuva. ')
+    'Qual é a unidade básica da vida?',
+    'A célula')
     
     criaCartao (
     'Biologia',
-    'Recentemente, a mídia vem noticiando o enorme aumento do buraco de ozônio sobre o continente Antártico e áreas adjacentes. As populações humanas do sul do Chile e da Argentina estão sendo aconselhadas a não se manterem no sol durante as horas mais quentes do dia para que não estejam sujeitas a sofrer',
-    'queimaduras e câncer de pele provocados pelo excesso de radiação ultravioleta')
+    'O que são organismos autotróficos?',
+    'Organismos que produzem seu próprio alimento, como plantas, utilizando a fotossíntese ou quimiossíntese')
     
     criaCartao (
     'Historia',
-    'Entende-se comumente por Monarquia aquele sistema de dirigir que se centraliza estavelmente numa só pessoa investida de poderes especialíssimos, exatamente monárquicos, que a colocam claramente acima de todo o conjunto dos governados. (BOBBIO, Noberto. Dicionário de política. Brasília UNB, 1995) A forma de organização política exposta acima refere-se',
-    'Ao absolutismo monárquico.')
+    'O que foi a Revolução Industrial?',
+    'Um período de transição para novos processos de produção, que começou no século XVIII, caracterizado pela mecanização e pela industrialização')
     
     criaCartao (
     'Historia',
-    'O iluminismo (ou ilustração) foi uma corrente de ideias que teve origem no século XVII e se desenvolveu sobretudo no século XVIII. O referido movimento é considerado importante por transformar a visão tradicional do homem moderno. O iluminismo expressou a',
-    'consolidação do uso da razão, ou racionalismo, como elemento essencial do ser humano.')
+    'O que foi a Guerra Fria?',
+    'Um período de tensão política e militar entre os Estados Unidos e a União Soviética, que ocorreu após a Segunda Guerra Mundial, sem um confronto direto entre as superpotências.')
     
     criaCartao (
     'Historia',
-    'No ano de 1945, bombas nucleares destruíram as cidades japonesas de Hiroshima e Nagasaki, impressionando o mundo pelo seu poder de devastação. Assinale a alternativa que corresponde, de forma correta e respectivamente, a guerra em questão e ao país que lançou as bombas',
-    'Segunda Guerra Mundial e Estados Unidos')
+    'Qual foi a causa da Primeira Guerra Mundial?',
+    'A rivalidade imperialista, alianças militares e o assassinato do arquiduque Francisco Ferdinando em 1914.')
     
     criaCartao (
     'Geografia',
-    'Eu estava pagando o sapateiro e conversando com um preto que estava lendo um jornal. Ele estava revoltado com um guarda civil que espancou um preto e amarrou numa árvore. O guarda civil é branco. E há certos brancos que transforma o preto em bode expiatório. Quem sabe se guarda civil ignora que já foi extinta a escravidão e ainda estamos em regime de chibata? JESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014. O texto que guarda a grafia original da autora, expõe uma característica da sociedade brasileira, que é o(a)',
-    'racismo estrutural')
+    'O que é uma bacia hidrográfica?',
+    'É uma área de terra onde toda a água que cai se acumula e escoa para um único corpo de água como um rio ou lago.')
     
     criaCartao (
     'Geografia',
-    'Segundo estudos, o aquecimento global é responsável pelas mudanças climáticas que vêm ocorrendo em todo o planeta, com trágicas consequências ambientais, econômicas e sociais. No que concerne ao aquecimento global, assinale a afirmação verdadeira',
-    'Em decorrência do aquecimento global, milhões de pessoas poderão enfrentar fome e racionamento de água, além das consequências do desaparecimento de muitas áreas costeiras pela elevação do nível do mar.')
+    'Qual é a diferença entre clima e tempo?',
+    'O clima é a média das condições atmosféricas em uma região ao longo do tempo, enquanto o tempo se refere às condições atmosféricas em um determinado momento.')
     
     criaCartao (
     'Geografia',
-    'O desastre de Chernobyl ainda custa caro. Hoje o governo gasta até 7% dos impostos para garantir o isolamento e a segurança de uma região maior que um Parque do Ibirapuera e meio. O país já aceitou que a Zona de Exclusão não vai servir para moradia, plantação nem para a atividade madeireira tão cedo. www.superinteressante.com.br. Adaptado.O acidente e o país relacionados ao fato mencionado no excerto correspondem, respectivamente',
-    'à explosão de uma usina nuclear e à Ucrânia')
+    'O que é urbanização?',
+    'É o processo de crescimento das cidades e a migração da população rural para áreas urbanas, resultando em aumento da densidade populacional nas cidades.')
     
     criaCartao (
     'Sociologia',
-    'Eu estava pagando o sapateiro e conversando com um preto que estava lendo um jornal. Ele estava revoltado com um guarda civil que espancou um preto e amarrou numa árvore. O guarda civil é branco. E há certos brancos que transforma o preto em bode expiatório. Quem sabe se guarda civil ignora que já foi extinta a escravidão e ainda estamos em regime de chibata? JESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014. O texto que guarda a grafia original da autora, expõe uma característica da sociedade brasileira, que é o(a):',
-    'Racismo estrutural')
+    'O que é socialização?',
+    'O processo pelo qual os indivíduos aprendem e internalizam as normas, valores e comportamentos da sua cultura.')
     
     criaCartao (
     'Sociologia',
-    'A sociedade burguesa moderna, que brotou das ruínas da sociedade feudal, não aboliu os antagonismos de classes. Não fez senão substituir velhas classes, velhas condições de opressão, velhas formas de luta por outras novas. Entretanto, a nossa época, a época da burguesia, caracteriza-se por ter simplificado os antagonismos de classes. MARX, K.; ENGELS, F. O manifesto comunista. São Paulo: Paz e Terra, 1998. Na perspectiva dos autores, os antagonismos entre as classes sociais no capitalismo decorrem da separação entre aqueles que detêm os meios de produção e aqueles que',
-    'Vendem a força do trabalho.')
+    ' que é uma instituição social?',
+    'Estruturas organizadas que desempenham funções importantes na sociedade, como família, educação, religião e governo.')
