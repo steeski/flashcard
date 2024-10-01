@@ -1,12 +1,12 @@
 criaCartao (
     'Matematica' ,
     ' Qual é a fórmula da área de um triângulo? ',
-     'A = (basexaltura) / 2')
+     'A = (basexaltura)/2')
     
     criaCartao (
     'Matematica',
     'O que é uma função linear?',
-    ' É uma função que pode ser escrita na forma f(x) = mx + b')
+    ' É uma função que pode ser escrita na forma f(x)= mx + b')
     
     criaCartao (
     'Matemática',
