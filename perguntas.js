@@ -1,7 +1,7 @@
 criaCartao (
     'Matematica' ,
     ' Qual é a fórmula da área de um triângulo? ',
-     'A = (base × altura) / 2')
+     'A = (basexaltura) / 2')
     
     criaCartao (
     'Matematica',
@@ -16,7 +16,7 @@ criaCartao (
     criaCartao (
     'Fisica',
     'Qual é a fórmula da segunda lei de Newton?',
-    'F = m × a (força = massa × aceleração')
+    'F = mxa (força = massaxaceleração')
     
     criaCartao (
     'Fisica',
