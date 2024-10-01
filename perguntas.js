@@ -41,7 +41,7 @@ criaCartao(
 criaCart(
     'Quimica',
     'Qual é a fórmula da reação de neutralização entre um ácido e uma base?',
-' HA + BOH -> BA + H₂O (ácido + base -> sal + água)')
+'HA+BOH->BA+H2O(ácido+base->sal+água)')
 
 criaCartao(
     'Biologia',
