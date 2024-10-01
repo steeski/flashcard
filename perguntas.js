@@ -1,32 +1,32 @@
 criaCartao (
     'Matematica' ,
-    'Roberta resolve passear com a sua filhinha Malu e, antes de sair de seu apartamento, decide vesti-la com uma camiseta e uma calça. Se Malu tem 7 camisetas e 3 calças, todas distintas, de quantas maneiras Roberta pode escolher uma camiseta e uma calça para vestir a Malu?',
-     '21')
+    ' Qual é a fórmula da área de um triângulo? ',
+     'A = (base × altura) / 2')
     
     criaCartao (
     'Matematica',
-    'Numa lanchonete o lanche é composto por três partes: pão, molho e recheio. Se essa lanchonete oferece aos seus clientes duas opções de pão, três de molho e quatro de recheio, a quantidade de lanches distintos que ela pode oferecer é de?',
-    '24')
+    'O que é uma função linear?',
+    ' É uma função que pode ser escrita na forma f(x) = mx + b')
     
     criaCartao (
     'Matemática',
-    'Em fevereiro, o governo da Cidade do México, metrópole com uma das maiores frotas de automóveis do mundo, passou a oferecer à população bicicletas como opção de transporte. Por uma anuidade de 24 dólares, os usuários têm direito a 30 minutos de uso livre por dia. O ciclista pode retirar em uma estação e devolver em qualquer outra e, se quiser estender a pedalada, paga 3 dólares por hora extra.Revista Exame. 21 abr. 2010. A expressão que relaciona o valor f pago pela utilização da bicicleta por um ano, quando se utilizam x horas extras nesse período é',
-    'f(x) =3x + 24')
+    'Qual é a fórmula da soma dos ângulos internos de um triângulo?',
+    '180 graus)
     
     criaCartao (
     'Fisica',
-    'Para a proteção contra curtos-circuitos em residências são utilizados disjuntores, compostos por duas lâminas de metais diferentes, com suas superfícies soldadas uma à outra, ou seja, uma lâmina bimetálica. Essa lâmina toca o contato elétrico, fechando o circuito e deixando a corrente elétrica passar. Quando da passagem de uma corrente superior à estipulada (limite), a lâmina se curva para um dos lados, afastando-se do contato elétrico e, assim, interrompendo o circuito. Isso ocorre porque os metais da lâmina possuem uma característica física cuja resposta é diferente para a mesma corrente elétrica que passa no circuito. A característica física que deve ser observada para a escolha dos dois metais dessa lâmina bimetálica é o coeficiente de',
-    'dilatação térmica')
+    'Qual é a fórmula da segunda lei de Newton?',
+    'F = m × a (força = massa × aceleração')
     
     criaCartao (
     'Fisica',
-    'Isso é apenas a ponta do iceberg” é uma metáfora utilizada em contextos onde há mais informação sobre um determinado fato do que se pode perceber de imediato. Essa analogia é possível pois 90% de cada um desses blocos de gelo estão submersos, ou seja, não estão visíveis. Essa característica está associada à seguinte propriedade física do iceberg ',
-    'densidade')
+    'O que é a energia cinética?',
+    'É a energia de um corpo em movimento, dada por EK = (1/2)mv²')
     
     criaCartao (
     'Física',
-    'As grandezas físicas escalares são expressas apenas pelo seu valor numérico e unidade de medida. As grandezas físicas vetoriais além do valor numérico e unidade de medida, para serem expressas, necessitam de direção e sentido. Com base nisso, assinale a opção que corresponde a uma grandeza física de natureza vetorial',
-    'força')
+    'Qual é a fórmula para calcular a pressão?',
+    'P = F/A (pressão = força / área)')
     
     criaCartao (
     'Quimica',
