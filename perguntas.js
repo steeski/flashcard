@@ -38,7 +38,7 @@ criaCartao(
     'O que são ácidos e bases segundo a teoria de Arrhenius?',
     'Ácidos liberam íons H⁺ em solução, e bases liberam íons OH⁻')
 
-criaCart(
+criaCartao(
     'Quimica',
     'Qual é a fórmula da reação de neutralização entre um ácido e uma base?',
     'HA+BOH->BA+H2O(ácido+base->sal+água)')
